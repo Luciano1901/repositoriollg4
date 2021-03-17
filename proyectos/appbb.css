@@ -1,0 +1,12 @@
+.padre {
+    padding: 10px;
+    background-color: #fafafa;
+    margin: 1rem;
+    padding: 1rem;
+    border: 2px solid #ccc;
+    /* IMPORTANTE */
+    text-align: center;
+    width: 80px;
+    height: 80px;
+    border-radius: 6px;
+  }

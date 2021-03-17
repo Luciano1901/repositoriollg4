@@ -1,0 +1,17 @@
+{
+  "name": "apibb",
+  "version": "1.0.0",
+  "description": "Ejercicio Practica para hacer api de Breaking Bad",
+  "main": "appbb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Breaking",
+    "Bad",
+    "API",
+    "JS"
+  ],
+  "author": "Luciano",
+  "license": "MIT"
+}

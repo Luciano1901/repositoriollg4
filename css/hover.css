@@ -1,0 +1,13 @@
+.proyecto a:hover{
+    background-color: rgba(14, 28, 29, 0.726);
+    margin: 0 0 0 10px;
+    height: 3em;
+    border-radius: 4em;
+    color: white;
+}
+
+.project-item:hover .info{
+    display: block;
+    font-weight: bold;
+}
+
